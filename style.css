@@ -1,0 +1,13 @@
+
+.bg{
+    background-image:url("bgimg.jpg") ;
+	background-size:cover;
+	background-position:unset;
+
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+#div1{
+    float: none;
+}
